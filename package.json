@@ -4,9 +4,26 @@
   "private": true,
   "dependencies": {
     "antd": "4.0.0-alpha.4",
+    "connected-react-router": "6.5.2",
+    "history": "4.10.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-redux": "7.1.1",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.1.2",
+    "redux": "4.0.4",
+    "redux-dynamic-modules": "5.0.2",
+    "redux-dynamic-modules-react": "5.0.2",
+    "redux-dynamic-modules-saga": "5.0.2",
+    "redux-dynamic-modules-thunk": "5.0.2",
+    "redux-logger": "3.0.6",
+    "redux-saga": "1.1.1",
+    "redux-saga-requests": "0.26.1",
+    "redux-saga-requests-fetch": "0.9.7",
+    "redux-saga-requests-mock": "0.1.7",
+    "redux-thunk": "2.3.0",
+    "reselect": "4.0.0",
+    "styled-components": "4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
